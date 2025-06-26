@@ -1,0 +1,73 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://java.sun.com/javase/6/webnotes/trouble/TSG-VM/html/javacore.html
+hs_err_pid*
+
+# Bytecode outline files
+*.jout
+
+# Local configuration file (e.g. database passwords)
+application-local.properties
+
+# Maven
+target/
+pom.xml.tag
+pom.version.backup
+*.iml
+.idea/
+
+# Gradle
+.gradle
+/build
+
+# NetBeans
+nbproject/
